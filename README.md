@@ -1,6 +1,6 @@
 # Olá, sou o João Faria 👋
 
-**Mestrando em Engenharia e Gestão de Sistemas de Informação (EGSI)** @ [Universidade do Minho](https://www.uminho.pt/)  
+**Estou a tirar mestrado em Engenharia e Gestão de Sistemas de Informação (EGSI)** @ [Universidade do Minho](https://www.uminho.pt/)  
 🎓 *Licenciado em Ciências da Computação pela Universidade do Minho*  
 📍 *Porto / Maia, Portugal* • 📬 [LinkedIn](https://www.linkedin.com/in/joao-faria-645bb3302) • ✉️ [Email](mailto:joaorpg2015@gmail.com)
 
