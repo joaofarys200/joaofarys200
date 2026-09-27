@@ -4,7 +4,7 @@
 🎓 *Licenciado em Ciências da Computação pela Universidade do Minho*  
 📍 *Porto / Maia, Portugal* • 📬 [LinkedIn](https://www.linkedin.com/in/joao-faria-645bb3302) • ✉️ [Email](mailto:joaorpg2015@gmail.com)
 
-Desenvolvo **sistemas de software determinísticos, plataformas multi-agente autónomas e arquiteturas distribuídas**. A minha base técnica combina rigor em ciências da computação, engenharia de sistemas em nuvem e investigação operacional, com foco em engenharia independente de orquestração de IA.
+Estou atualmente a desenvolver um **sistema de software determinístico, plataforma multi-agente autónoma e arquitetura distribuída**. A minha base técnica combina rigor em ciências da computação, engenharia de sistemas em nuvem e investigação operacional, com foco em engenharia independente de orquestração de IA.
 
 ---
 
